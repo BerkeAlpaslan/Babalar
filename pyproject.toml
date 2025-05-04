@@ -21,5 +21,8 @@ classifiers = [
 ]
 license = "MIT"
 
+[tool.setuptools]
+license-file = []
+
 [project.urls]
 Homepage = "https://github.com/BerkeAlpaslan/babalar"
